@@ -1,0 +1,77 @@
+html,
+body {
+	height: 100%;
+	margin: 0;
+}
+
+body {
+    font-family: 'Kdam Thmor Pro', sans-serif;
+    height: 100%;
+    margin: 0;
+}
+
+.body_backgorund 
+{
+    background-image:url(food.jpg);
+    background-position:center;
+    background-size:cover;
+}
+
+.login_div {
+    background: #d4d1d5;
+    float: none;
+    border-radius: 15px;
+    width: 550px; 
+}
+
+.logo {
+    width: 40px;
+    margin-top: 30px;
+    border-radius: 40px;
+}
+
+#login_button {
+    height: 50px;
+    border-radius: 50px;
+    background-color: #4CAF50; 
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 10px;
+  }
+
+  #name {
+   width: 250px;
+   height: 30px; 
+  }
+
+  #number {
+    width: 250px;
+    height: 30px; 
+   }
+
+  #login_button:hover {
+    cursor: pointer;
+  }
+
+.header img {
+	width: 80px;
+	margin-left: -15px;
+}
+
+.login_div {
+	background: rgba(255, 255, 255, 0.8);
+	float: none;
+	border-radius: 15px;
+}
+
+.logo {
+	width: 180px;
+	margin-top: 30px;
+	border-radius: 20px;
+}
+
